@@ -1,0 +1,3 @@
+PA3 → D0 (CLK), PA1 → D1 (MOSI), PB2 → DC, PB3 → CS, PA4 → RES, VCC, GND.
+
+Leave DO/MISO unconnected.
